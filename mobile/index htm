@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Технічне обслуговування</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.box {
+  background: white;
+  padding: 40px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+</style>
+</head>
+<body>
+  <div class="box">
+    <h1>Сайт тимчасово недоступний, але СТО "12 Вольт" працює</h1>
+    <p>Ведуться технічні роботи.<br>Зайдіть пізніше.</p>
+    <p>Ви можете зателефонувати за номером (067) 914-65-74</p>
+  </div>
+</body>
+</html>
